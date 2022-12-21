@@ -1,4 +1,5 @@
-## YeongHu Kim, interested in Back-end👀
+# YeongHu(zer0who) Kim
+Interested in backend developing / Busan, South Korea
 
 ### ⁉ What I do
 - Cooperate
