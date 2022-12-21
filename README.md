@@ -2,7 +2,6 @@
 Interested in backend developing / Busan, South Korea
 
 ## ⁉ What I do
-- Cooperate
 - Practice and record
 - Problem solving
 
