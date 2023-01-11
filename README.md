@@ -21,4 +21,4 @@ Interested in backend developing / Busan, South Korea
 ## 🎞 Film
 |ACT|DATE|NAME|
 |---|---|---|
-|Study|2016.03 - 2023.02(expected)|Pusan National Univ.|
+|Study|2016.03 - 2023.02(expected)|Pusan National Univ.(Busan, Korea)|
