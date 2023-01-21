@@ -16,9 +16,11 @@ Interested in backend developing / Busan, South Korea
 
 #### In studying
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+![image](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=green)
 
 ## 🎞 Film
 |ACT|DATE|NAME|
 |---|---|---|
 |Study|2016.03 - 2023.02(expected)|Pusan National Univ.(Busan, South Korea)|
+|Project|2023.01 - |ZupZup(Back-end Developer)|
