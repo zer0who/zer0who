@@ -24,5 +24,5 @@ Interested in backend developing / Busan, South Korea
 ## 🎞 Film
 |ACT|DATE|NAME|
 |---|---|---|
-|Study|2016.03 - 2023.02(expected)|Pusan National Univ.(Busan, South Korea)|
+|Study|2016.03 - 2023.02|Pusan National Univ. Computer Science Engineering(Busan, South Korea)|
 |Project|2023.01 - |ZupZup(내 집 주변 마감할인 플랫폼, Back-end Developer)|
