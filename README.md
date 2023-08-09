@@ -33,4 +33,4 @@ Interested in backend developing / Busan, South Korea
 |---|---|---|
 |Study|2016.03 - 2023.02|Pusan National Univ. Computer Science Engineering(Busan, South Korea)|
 |Study|2023.07 - |SSAFY(10th, Coding Track(Java), BUK CAMPUS)|
-|Project|2023.01 - |ZupZup(내 집 주변 마감할인 플랫폼, Back-end Developer)|
+|Project|2023.01 - |[ZupZup](https://zupzup.oopy.io/)(내 집 주변 마감할인 플랫폼, Back-end Developer)|
