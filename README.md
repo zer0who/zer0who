@@ -1,5 +1,5 @@
 # YeongHu(zer0who) Kim
-Interested in backend developing / Busan, South Korea
+Interested in Back-End / Busan, South Korea
 
 ## ⁉ What I do
 - Practice and record
