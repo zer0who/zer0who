@@ -5,6 +5,13 @@ Interested in backend developing / Busan, South Korea
 - Practice and record
 - Problem solving
 
+## 🎞 Film
+|ACT|DATE|NAME|
+|---|---|---|
+|Study|2016.03 - 2023.02|Pusan National Univ. Computer Science Engineering(Busan, South Korea)|
+|Study|2023.07 - |SSAFY(10th, Coding Track(Java), BUK CAMPUS)|
+|Project|2023.01 - |[ZupZup](https://zupzup.oopy.io/)(내 집 주변 마감할인 플랫폼, Back-end Developer)|
+
 ## 🛠 Tech Stack
 #### Can Use
 
@@ -27,13 +34,6 @@ Interested in backend developing / Busan, South Korea
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## 🎞 Film
-|ACT|DATE|NAME|
-|---|---|---|
-|Study|2016.03 - 2023.02|Pusan National Univ. Computer Science Engineering(Busan, South Korea)|
-|Study|2023.07 - |SSAFY(10th, Coding Track(Java), BUK CAMPUS)|
-|Project|2023.01 - |[ZupZup](https://zupzup.oopy.io/)(내 집 주변 마감할인 플랫폼, Back-end Developer)|
 
 ## ☑️ Certification
 정보처리기사 - 2022.11.25, 한국산업인력공단  
