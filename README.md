@@ -1,10 +1,6 @@
 # YeongHu(zer0who) Kim
 Interested in Back-End / Busan, South Korea
 
-## ⁉ What I do
-- Practice and record
-- Problem solving
-
 ## 🎞 Film
 |ACT|DATE|NAME|
 |---|---|---|
