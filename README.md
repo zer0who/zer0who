@@ -17,7 +17,7 @@ Interested in Back-End / Busan, South Korea
 
 ![image](https://img.shields.io/badge/OpenStack-EE0000?style=for-the-badge&logo=openstack&logoColor=white)
 
-#### In studying
+#### Now Using
 
 ![image](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
 
