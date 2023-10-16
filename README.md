@@ -9,7 +9,7 @@ Interested in Back-End / Busan, South Korea
 |Project|2023.01 - |[ZupZup](https://zupzup.oopy.io/)(내 집 주변 마감할인 플랫폼, Back-end Developer)|
 
 ## 🛠 Tech Stack
-#### Can Use
+#### Used Before
 
 ![image](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
