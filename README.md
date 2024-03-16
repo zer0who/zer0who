@@ -12,6 +12,8 @@ Interested in Back-End / Busan, South Korea
 ## 🛠 Tech Stack
 #### Used Before
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+
 ![image](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
@@ -19,12 +21,14 @@ Interested in Back-End / Busan, South Korea
 
 #### Now Using
 
-![image](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
+![image](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java17&logoColor=white)
 ![image](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=green)
 
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgre-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white">
 
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
