@@ -9,7 +9,7 @@ Interested in Back-End / Busan, South Korea
 |Project|2022.07 - 2022.10|[PNU 2022 전기 졸업과제](https://github.com/zer0who/PNU-GRADUATION-TASK)(오픈소스 클라우드 기반 인스턴스 오케스트레이션 및 관리, Cloud Engineer & Back-End Developer)|
 |Project|2023.01 - 2024.01|[ZupZup](https://github.com/zer0who/ZupZup_BackEnd)(내 집 주변 마감할인 플랫폼, Back-End Developer)|
 |Project|2024.01 - 2024.02|SSAFY 2학기 1차 프로젝트 [담쪽이](https://github.com/zer0who/damjjok)(지인과 함께하는 금연 챌린지, Front-End Developer, 우수상 수상🥈)|
-|Project|2024.02 - |SSAFY 2학기 2차 프로젝트 도로로(운전 연수 코스 추천 서비스, Back-End Developer & DevOps)|
+|Project|2024.02 - |SSAFY 2학기 2차 프로젝트 도로로(운전 연수 코스 추천 서비스, DevOps & Back-End Developer)|
 
 ## 🛠 Tech Stack
 #### Used Before
