@@ -1,5 +1,6 @@
 # YeongHu(zer0who) Kim
-Interested in Back-End / Busan, South Korea
+Interested in Back-End / Busan, South Korea  
+안녕하세요. 수용하고 발전하는 개발자가 되고자 하는 사나이 김영후입니다.
 
 ## 🎞 Film
 |ACT|DATE|NAME|
@@ -9,12 +10,13 @@ Interested in Back-End / Busan, South Korea
 |Project|2022.07 - 2022.10|[PNU 2022 전기 졸업과제](https://github.com/zer0who/PNU-GRADUATION-TASK)(오픈소스 클라우드 기반 인스턴스 오케스트레이션 및 관리, Cloud Engineer & Back-End Developer)|
 |Project|2023.01 - 2024.01|[ZupZup](https://github.com/zer0who/ZupZup_BackEnd)(내 집 주변 마감할인 플랫폼, Back-End Developer)|
 |Project|2024.01 - 2024.02|SSAFY 2학기 1차 프로젝트 [담쪽이](https://github.com/zer0who/damjjok)(지인과 함께하는 금연 챌린지, Front-End Developer, 우수상 수상🥈)|
-|Project|2024.02 - |SSAFY 2학기 2차 프로젝트 도로로(운전 연수 코스 추천 서비스, DevOps & Back-End Developer)|
+|Project|2024.02 - 2024.04|SSAFY 2학기 2차 프로젝트 도로로(운전 연수 코스 추천 서비스, DevOps & Back-End Developer, 수상)|
+|Project|2024.04 - |SSAFY 2학기 3차 프로젝트|
 
 ## 🛠 Tech Stack
 #### Used Before
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ![image](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -32,7 +34,7 @@ Interested in Back-End / Busan, South Korea
 
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## ☑️ Certification
 정보처리기사 - 2022.11.25, 한국산업인력공단  
