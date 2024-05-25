@@ -1,5 +1,5 @@
 # YeongHu(zer0who) Kim
-Interested in Back-End / Busan, South Korea  
+Interested in Back-End, DevOps / Busan, South Korea  
 안녕하세요. 수용하고 발전하는 개발자가 되고자 하는 사나이 김영후입니다.
 
 ## 🎞 Film
