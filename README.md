@@ -49,5 +49,5 @@ Interested in Back-End, DevOps / Busan, South Korea
 정보처리기사 - 2022.11.25, 한국산업인력공단  
 SQL개발자(SQLD) - 2023.04.14, 한국데이터산업진흥원
 
-## Lingual Skills
+## 📢 Lingual Skill
 OPIc, IM2 - 2024.08.10, ACTFL
