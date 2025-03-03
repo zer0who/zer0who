@@ -8,7 +8,7 @@ Interested in Back-End, DevOps / Busan, South Korea
 |Study|2016.03 - 2023.02|Pusan National Univ. Computer Science Engineering(Busan, South Korea)|
 |Study|2023.07 - 2024.06|SSAFY(10th, Coding Track(Java), BUK CAMPUS)|
 |Work|2025.03 - |Korean Register|
-|External|2023.01 - 2024.01|[ZupZup](https://github.com/zer0who/ZupZup_BackEnd)(내 집 주변 마감할인 플랫폼, BackEnd Developer, 2023 예비창업패키지-일반분야 선정)|
+|External|2023.01 - 2024.01|[ZupZup](https://github.com/zer0who/ZupZup_BackEnd)(내 집 주변 마감할인 플랫폼, BackEnd Developer & 배포 관리자, 2023 예비창업패키지-일반분야 선정)|
 |Project|2022.07 - 2022.10|[PNU 2022 전기 졸업과제](https://github.com/zer0who/PNU-GRADUATION-TASK)(오픈소스 클라우드 기반 인스턴스 오케스트레이션 및 관리, Cloud Engineer & BackEnd Developer)|
 |Project|2024.01 - 2024.02|SSAFY 2학기 1차 프로젝트 [담쪽이](https://github.com/zer0who/damjjok)(지인과 함께하는 금연 챌린지, FrontEnd Developer, 우수상 수상🥈)|
 |Project|2024.02 - 2024.04|SSAFY 2학기 2차 프로젝트 [도로로](https://github.com/zer0who/dororo)(운전이 서툰 사람을 위한 연습 코스 추천 서비스, BackEnd Developer & DevOps Engineer, 우수상 수상🥈)|
