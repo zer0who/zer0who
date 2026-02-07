@@ -51,6 +51,9 @@ Busan, South Korea
 
 ![image](https://img.shields.io/badge/Microsoft_Power_Automate-0078D4?style=for-the-badge)
 
+![image](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![image](https://img.shields.io/badge/Antigravity-2b2b2b?style=for-the-badge&logo=google&logoColor=white)
+
 ## ☑️ Certification
 정보처리기사 - 2022.11.25, 한국산업인력공단  
 SQL개발자(SQLD) - 2023.04.14, 한국데이터산업진흥원
