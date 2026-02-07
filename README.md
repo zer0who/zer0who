@@ -1,6 +1,6 @@
 # YeongHu(zer0who) Kim
 Busan, South Korea  
-안녕하세요. 근원을 파악하고 이용하는 개발자 김영후입니다.
+안녕하세요. 근원을 파악하고 이용하는 SW 엔지니어 김영후입니다.
 
 ## 🎞 Film
 |ACT|DATE|NAME|
